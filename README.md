@@ -1,2 +1,2 @@
-# exxtinct-websites-docs
-Dokumentace k databázi mrtvých webů.
+# Dokumentace k databázi mrtvých webů
+
