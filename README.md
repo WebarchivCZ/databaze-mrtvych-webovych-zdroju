@@ -5,6 +5,8 @@ Tento repozitář slouží pro dokumentaci **Databáze mrtvých webových zdroj�
 [seeder]: https://github.com/WebarchivCZ/Seeder
 [exwb]: https://github.com/WebarchivCZ/extinct-websites
 
-**Více na [Wiki](https://github.com/WebarchivCZ/databaze-mrtvych-webovych-zdroju/wiki)**
+
+
+- **Dokumentace je dostupná na [Wiki](https://github.com/WebarchivCZ/databaze-mrtvych-webovych-zdroju/wiki)**
 
 Databáze je realizována v rámci institucionálního výzkumu Národní knihovny České republiky financovaného Ministerstvem kultury ČR v rámci Dlouhodobého koncepčního rozvoje výzkumné organizace.
