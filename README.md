@@ -6,7 +6,7 @@ Tento repozitář slouží pro dokumentaci **Databáze mrtvých webových zdroj�
 [exwb]: https://github.com/WebarchivCZ/extinct-websites
 
 
-
+- **Databáze je dostupná na [zde](https://www.webarchiv.cz/mrtve-weby)**
 - **Dokumentace je dostupná na [Wiki](https://github.com/WebarchivCZ/databaze-mrtvych-webovych-zdroju/wiki)**
 
 Databáze je realizována v rámci institucionálního výzkumu Národní knihovny České republiky financovaného Ministerstvem kultury ČR v rámci Dlouhodobého koncepčního rozvoje výzkumné organizace.
