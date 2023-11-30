@@ -11,4 +11,5 @@ Tento repozitář slouží pro dokumentaci **Databáze mrtvých webových zdroj�
 
 ### Dedikace
 Národní knihovna ČR
+
 Databáze je realizována v rámci institucionálního výzkumu Národní knihovny České republiky financovaného Ministerstvem kultury ČR v rámci Dlouhodobého koncepčního rozvoje výzkumné organizace.
