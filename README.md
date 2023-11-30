@@ -9,4 +9,6 @@ Tento repozitář slouží pro dokumentaci **Databáze mrtvých webových zdroj�
 - **Databáze je dostupná na [zde](https://www.webarchiv.cz/mrtve-weby)**
 - **Dokumentace je dostupná na [Wiki](https://github.com/WebarchivCZ/databaze-mrtvych-webovych-zdroju/wiki)**
 
+#Dedikace
+Národní knihovna ČR
 Databáze je realizována v rámci institucionálního výzkumu Národní knihovny České republiky financovaného Ministerstvem kultury ČR v rámci Dlouhodobého koncepčního rozvoje výzkumné organizace.
