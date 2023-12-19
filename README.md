@@ -13,3 +13,18 @@ Repozitář slouží k dokumentaci **Databáze mrtvých webových zdrojů**. Tat
 Národní knihovna ČR
 
 Databáze je realizována v rámci institucionálního výzkumu Národní knihovny České republiky financovaného Ministerstvem kultury ČR v rámci Dlouhodobého koncepčního rozvoje výzkumné organizace.
+
+
+
+# Dead Web Resources Database
+
+The repository is intended for documentation of the **Dead Web Resources Database**. This specialised public database displays in a structured form data about extinct web resources archived by the [Webarchive of the National Library of the Czech Republic](https://www.webarchiv.cz/cs/). The database is integrated into the curatorial application [Seeder][seeder] and displays data obtained through the [Extinct Websites Application][exwb]. Information about web resources that are identified as dead by Extinct Websites is transferred to Seeder via API and interpreted to the public via the Dead Web Resources Database. The goal of the database is to report on defunct web content through statistics from which trends over time can be gleaned.
+
+- **The database is available [here](https://www.webarchiv.cz/mrtve-weby)**
+- **Documentation is available on the [Wiki](https://github.com/WebarchivCZ/databaze-mrtvych-webovych-zdroju/wiki)**
+
+
+### Dedication
+National Library of the Czech Republic
+
+The database is implemented within the institutional research of the National Library of the Czech Republic funded by the Ministry of Culture of the Czech Republic within the framework of the Long-term conceptual development of the research organization.
